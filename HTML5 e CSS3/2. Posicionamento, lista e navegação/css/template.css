@@ -27,3 +27,20 @@ nav a {
     font-weight: bold;
     color: #000000;
 }
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background: url("../img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0;
+}
